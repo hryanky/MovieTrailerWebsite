@@ -9,7 +9,7 @@ A basic Movie Website Trailer project requires Python v2.* to be installed.
 How to Run Project
 ------------------
 - Visit the github link:
-https://github.com/hryanky/FullStackWebDeveloper.git
+https://github.com/hryanky/MovieTrailerWebsite.git
 - Click on 'Clone or Download' : Download zip
 - Unzip the folder
 - Open media_data.py and Run the file
